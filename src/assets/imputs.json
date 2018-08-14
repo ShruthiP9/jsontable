@@ -1,0 +1,10 @@
+[
+    {"name":"John","age":31,"city":"New York","Gender":"Male","Profession":"Designer"},
+    {"name":"Harry","age":28,"city":"Houston","Gender":"Male","Profession":"Painter"},
+    {"name":"Polo","age":22,"city":"Florida","Gender":"Male","Profession":"Analyst"},
+    {"name":"Hillary","age":25,"city":"Chicago","Gender":"Female","Profession":"Student"},
+    {"name":"Tom","age":27,"city":"Washington","Gender":"Male","Profession":"Singer"},
+    {"name":"David","age":24,"city":"Boston","Gender":"Male","Profession":"Student"},
+    {"name":"Christane","age":42,"city":"Seattle","Gender":"Female","Profession":"HomeMaker"}
+  ]
+  

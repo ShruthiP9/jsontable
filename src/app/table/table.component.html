@@ -1,0 +1,42 @@
+
+  
+      <html>
+          <head>
+          <style>
+          table, th, td {
+            
+              border: 1px solid black;
+              border-collapse: collapse;
+          }
+          </style>
+          </head>
+
+
+          <body>
+          <table  style="width:100%">
+            <tr>
+              <th>name</th>
+              <th>Age</th> 
+              <th>city</th>
+              <th>Gender</th>
+              <th>Proffesion</th>
+            </tr>
+            <tr *ngFor='let shru of tabledata'>
+            
+              <td>{{shru.name}}</td>
+              <td>{{shru.age}}</td>
+              <td>{{shru.city}}</td>
+              <td>{{shru.Gender}}</td>
+              <td>{{shru.Profession}}</td>
+
+            </tr>
+          
+          </table>
+       
+          
+          </body>
+          </html>
+          
+   
+
+
